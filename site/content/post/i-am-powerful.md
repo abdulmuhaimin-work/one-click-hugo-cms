@@ -6,10 +6,8 @@ image: /img/udang3.jpg
 ---
 this is the most delicious shrimp in the word
 
-
-
 ksnaofoskfnnaskksskjf
 
 asjfkskkskskkkskskkkskskasaskkskkkksskks
 
-lasf;llsfllslls
+lasf;llsfllsllssfas
